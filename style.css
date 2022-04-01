@@ -1,0 +1,29 @@
+body {
+  color: white;
+  background-image: url("https://www.xmple.com/wallpaper/orange-pink-gradient-linear-2880x1800-c2-f6be53-ed376d-a-90-f-14.svg");
+}
+span {
+  font-size: 30px;
+}
+#camera,
+#result {
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px;
+}
+#result_emotion_name,
+#result_emotion_name2 {
+  color: black;
+}
+.emotion_name {
+  font-size: 40px;
+}
+.emoji {
+  font-size: 48px;
+}
+
+.heading {
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
